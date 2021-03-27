@@ -6,3 +6,38 @@ u can also do with alt too
 
 * we can also do ctrl+c, and use ctrl + v 
 
+*layout, select it and go to properties
+and select the layout grid
+
+we can als change the columns, rows, etc
+
+u can also use shift + R to show the ruler or hide it
+
+we can also create a new ruler, from the edges of the ruler an drag it
+and to remove it , just drag them back
+
+*creating shapes
+for drawing a square, hold shift
+
+for circle, also it is the same (hold shift)
+
+we can aslo select the gradient 
+
+to add border radius, to one corner, we can use alt
+
+u can also copy the propertoes using cltr+ alt+c and paste it by ctrl +alt +v
+
+u can also double click on the shape , to change the shape , however u want
+u can round the edges by clicking on ctrl and dragging them
+
+u can also click on outline stroke,a nd u will have on elayer
+and u can then seperate it
+
+select pen too by clicking on P shortcut 
+
+u can also round it using the three dots on the stroke
+
+boolean operations:
+select two shapes and use union to combine them into one
+
+and if we drag with ctrl, we can change the shape of the combined one as per our needs
