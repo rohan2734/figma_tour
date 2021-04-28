@@ -1,0 +1,19 @@
+* components in figma are very useful 
+* if we have a frame, where the roundness is 25, and the duplicates of it are also 25 
+* but when we change the roundness from 25 to 15 of first frame , the other two frames . the changes are not reflected 
+
+* so here the components come into play
+* we can convert the frames into components
+
+components can be any part of the design that can be duplicated , with certain characteristics, and if you want to change the characteristics, you can maintain the changes in every place, rather than we changing it
+
+* now you can select what you want to make the component, and click on ctrl+alt+k
+* and click on ctrl+alt to copy and drag it and paste in other screen to creat an instance of that component 
+* to check if it is the master component or not, you can see a filled diamond for master component 
+* and unfilled diamond for instance of the master component
+
+* for the first component, you cannot change the icons, as we did on the display for the other two since, it is the master component
+* so we create one  more instacnce of that master component
+
+* do the same with a button as a component in first screen
+

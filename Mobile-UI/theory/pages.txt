@@ -1,0 +1,15 @@
+* we can also add pages in the same file 
+* add 3  pages 
+* name it mockups , compoinets and styles
+* and use ctrl+x and shift the respective elements 
+
+* and on components 
+* take a button component
+* create its duplicate 
+
+* make it as , make it a component , rename it with the format 
+
+Name/State 
+Button /Enabled , and Button/Disabled
+
+* now take the copy of the component for the tutorial steps in the components also 

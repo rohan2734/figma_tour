@@ -1,0 +1,21 @@
+flaticon
+
+benefit of svg icon :
+we can resize them without worrying about images getting pixelated 
+resulution will get bad ,when you zoom in case of png 
+
+which type of image is better for UI UX ?
+svg or png ?
+
+to place an image, go to shape and select place image or ctrl+shift+ k 
+
+and select all images 
+
+and you can hold space to drag and place them 
+and you can hold shift for symmetrical size 
+
+you can also change the font size to 14 from 12
+
+and again select the password icon and password text, and click on vertical align 
+
+you can also select particular text and bold them by ctrl+ bad

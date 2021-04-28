@@ -1,0 +1,55 @@
+* click on F, to select the frame 
+* and select iphone pro max
+* and click on ctrl+D 6 times to get 6 duplicates
+* and on the top -right, click on the 64% etc , and change to zoom to fit
+* shortcut to zoom to fit is shift + 1
+
+
+*select the first mockup , press R to select a rectangle
+* fill white and stroke 
+* also round them 
+
+* and add the text, by pressing the T key
+and also use L to use the line tool and hold shift to make the line straight
+
+* u can click the line , and use shift and arrow key to move things left or right quickly
+
+* we can drag the image, and hold shift to resize and alt to fit it
+* so by adjusting it, by holding shift and alt we can fit the image 
+*  we can also rotate the image 
+* we can also choose fit from crop
+
+* after that from the left side bar , bring the image at the bottom 
+* u can also add a overlay to the image 
+* by clicking on image and selecting the overlay image and add solid and change the opacity to 50% and also change color to black
+
+
+* u can also group the email text and the box, using 
+* select email text and the box holding shift on the mockup , and then use ctrl+G to group them 
+* for passwword and login also 
+
+* select a rectange, use color picker
+* for the color picker shortcut, use i on windows,
+* and select the color of the logo 
+
+* now you need to select a rectangle in color schema, and 
+* you can select the login group, and choose primary for the color button, (select the four dots)
+* same with text color , choose white 
+* you can also change the color of the icons in the same way 
+
+* you can also change the primary color 
+* by clicking on a group, and select the primary color, and edit it , and it will change everywhere 
+* you can also undo it, by ctrl + z
+
+
+* you can also copy the contents of the login page, and paste it in the tutorial page, select each part of the login page, using shift and copy by ctrl+c 
+* you can also copy the contents of the login page, using the mouse selector 
+
+* now, click on R, and draw a rectnagle, and cover the screen, and change the color to black,in fill and change the opacity 
+* click add effects, and add background blur 
+
+* we need to duplicate the tutorial page, by ctrl+d 
+* and then , the shortcut for replacing the image is 
+* ctrl+x , on new image, and and paste on the second duplicate , on the icon 
+* and now it will be inserted inside the icon of the second tutroail,  so move out of it , 
+* and delete the first one and just change its color 

@@ -1,0 +1,8 @@
+* variants is a great tool to create multiple instances of the component 
+* select both the components, and select the variance 
+
+* also now select the three buttons, and duplicate with Ctrl+d 
+* and now add a property, add size 
+* add a new value , on the default as small and large 
+
+* a disabled small button , and a pressed small button 
