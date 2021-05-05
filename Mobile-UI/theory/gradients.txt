@@ -1,0 +1,7 @@
+* change the fill from solid to linear 
+* and then  select the colors to local colors 
+* and select orange 
+* and make the bottom one dark 
+* and then click on the square button to apply it 
+* and then change the direction of the squares to diagonal 
+

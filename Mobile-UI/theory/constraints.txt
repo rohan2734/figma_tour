@@ -1,0 +1,32 @@
+* making designs assuming that will always be run on iphone 11 size
+* we have been using only one size for the frames 
+* we have been placing the layers, assuming that this would work on iphone 11  
+
+* if the client decides to see their  designs at iphone11 pro max 
+* the designs will stay same size, but frames will  expand  ,because we have been desiing in iphone 11 
+
+* so constrains make the designs responsive, no matter what frame they are  in
+* we select a email button , and change the constraint to center, since we want to to be at the center 
+* here the field is resizing, but we need to add cosntraint of email logo 
+
+* for the icon  , we only want it to constriant it to the left and not the right 
+
+* change the quesiton mark constraint to , top and right 
+* and the kangarro to left and right center 
+and do wit the same other fields except the bttom singup to left and right and bottom 
+
+* for background we need to add left and right  and top aand bottom so that it covers whole screen
+
+* and for the cards, we need to make it to center, 
+
+The left constraint option keeps that object's 
+spacing with the left side of the screen as the screen 
+expands or shrink. While the right constraint option keeps 
+the object's space with the right side. And center tries to 
+keep the spacing between the left and right sides of the screen 
+as it expands. 
+
+* if we want to add resizing property, then we need to use left and right or top and bottom 
+otherwise we need to include as center 
+
+

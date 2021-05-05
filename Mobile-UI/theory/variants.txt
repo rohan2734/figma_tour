@@ -6,3 +6,14 @@
 * add a new value , on the default as small and large 
 
 * a disabled small button , and a pressed small button 
+
+* we are also going to create a buttons with logos also
+* so add a new property called With icon and change it to default 
+
+* so do the ctrl + alt ,and create the duplicate inside the variance only 
+* otherwise it wont be a variant anymore 
+
+* we can use the shortcut ctrl + shit + alt  ,and holding that select the text and click the text align:left 
+* now the butons without icon , seelct them and add new value of false 
+* and set it to false 
+
