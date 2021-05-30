@@ -1,0 +1,12 @@
+templates in figma, allow you to start with template, so taht you dont have to start with scratch 
+
+you also have access to prebuild components
+
+4:13
+
+
+now we need to make a tab component
+
+so we need to import the logos
+
+make the tab component

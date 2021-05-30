@@ -1,0 +1,16 @@
+ I used 1 layer of shadow to make
+  the payment card stand out from the
+   rest of the page since it's
+    the focal point of the interface 
+    and then a second layer with more
+     blur that gives the card an
+      impression of depth. 
+
+
+Another example which I really
+ like is applying similar shadow
+  styles to website buttons and 
+  then increasing the shadow when 
+  a user hovers over the button to
+   again add that depth of field. 
+

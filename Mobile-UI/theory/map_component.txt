@@ -1,0 +1,11 @@
+add the plugin 
+add the rectangle and add double shadow
+add search icon 
+add button below 
+add the navigation below 
+
+add the two circles to depict where we are 
+for first circle add readious of 38 and second one we can keep around 122
+decrease the opacity of the second one to 30% and change the color of the second one to blue 
+first one opacity is 100% and the color is also blue.
+

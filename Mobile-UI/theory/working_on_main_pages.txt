@@ -1,0 +1,14 @@
+we have bought the status bar, tag bar, and navigation bar 
+
+after that , we need to make those as components, 
+
+and then it will appear on assets
+
+then open the mockup
+
+add the status bar to all three mockups of request,profile and services
+
+then  also add navigation bar to profile 
+
+and then make the navigation bar under the status bar by the shotcut 
+cltr+[

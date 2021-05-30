@@ -1,0 +1,35 @@
+user experience:
+interface is what the user interacts with
+
+User experience (UX) desing is the process design teams use to create products that provide
+meaningful and relevant experiences to users 
+
+it is a human first way of designing products 
+
+ a UI is what people see in front of them , the autal interface 
+ UX is how they interact , and how to use it and how they feel while they are using it 
+
+
+Legible
+great ux is legible to users so this means great use of fonts and sizes
+- use easy to read fonts 
+
+great ux uses colos in ways that increase and improve contrast 
+- we can also make the text darker , or make the background lighter 
+
+Spacing
+great ux uses Spacing to seperate content 
+ - so it is not overwhelming
+
+Alignment
+- great UX uses alignment to ensure things feel right
+
+consistency:
+- add consistency to your content, colors and UI to imrpove UX 
+
+easy to use:
+- great ux is easy to use,  buttons are reachable, and big  enough to  press 
+
+
+
+
