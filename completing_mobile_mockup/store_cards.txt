@@ -1,0 +1,20 @@
+remove the store card example rectangle 
+which we left on the UI UX 
+
+and from the assets just drag the store card 
+and add drop shadow , and change the name 
+
+now to place the image on the store card 
+select the rectangle of store card , 
+at the last you will be able to see 
+the select image option ,and then click on it 
+and select the image from the file explorer 
+then hover the mouse over the rectangle
+and the image will be placed in the rectangle
+
+also add two more store cards 
+and for one of the store card , make the star to 
+filled , and unfilled too 
+now  make the store cards into one group 
+
+and change the width

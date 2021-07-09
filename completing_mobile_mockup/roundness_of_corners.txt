@@ -1,0 +1,6 @@
+if we click once alt, we can change the roundness 
+of each corner 
+and to change the corner roundness for one corner 
+hold alt and change it, 
+
+and to get back to the original posiiton hold alt again and change 

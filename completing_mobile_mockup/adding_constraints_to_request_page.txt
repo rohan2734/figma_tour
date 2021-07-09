@@ -1,0 +1,13 @@
+select the rectangle and status bar 
+
+for adding constraints make the map and pin as a group 
+
+make the status bar and 
+
+and also make the laundary stores , rectange, request service , everyhting 
+as one group 
+
+add left and right constraint to map and pin , 
+same to status bar and laundary stores
+
+center and center to map icon

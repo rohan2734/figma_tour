@@ -1,0 +1,28 @@
+we can choose the star from the tool 
+where rectangle is chosen 
+
+and we can also increase the count and decrease 
+by zooming in , selecting the edge, and moving up
+and down (point towards edge)
+
+we can also change the ratio by 
+dragging the point of intersection between 
+two ends of the star 
+
+you cant create a component out of another component 
+
+now after creating the component
+make one star fit into the component 
+duplicate the star inside that  
+and make 3 duplicates of it
+1.filled
+2.half filled 
+3. unfilled
+
+turn the filled and half filled color to gold 
+and unfilled to empty 
+
+and now make a rectangle 
+and place it half on that star 
+and use intersection property
+

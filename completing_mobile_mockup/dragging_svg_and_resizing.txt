@@ -1,0 +1,6 @@
+after dragging svg to resize them 
+
+choose the right side button to be active 
+so that it makes the height and width equal 
+and then enter the size which you want on any of the width or height 
+

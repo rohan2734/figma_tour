@@ -1,0 +1,9 @@
+* after making the tab bar 
+* add user profile and request
+then make it as component and place in the components 
+* then copy it and use in the mockup 
+
+* also make a copy of 3 in components, for active state of profile, request and services 
+
+then on the mockup, click on the tab bar, and select components->tab bar profile selected,
+tab bar - request selectedtab bar services selected

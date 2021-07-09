@@ -1,0 +1,7 @@
+make a small rectangle 
+show small map 
+then bring the status bar on the front
+after that add a small rectangle of size of status bar
+add color of white 
+opacity of 50%, and effect of background blur of 30
+
