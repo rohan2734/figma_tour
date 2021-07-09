@@ -11,3 +11,5 @@ add left and right constraint to map and pin ,
 same to status bar and laundary stores
 
 center and center to map icon
+
+for laundary store 
