@@ -1,0 +1,16 @@
+we can also create text styles 
+
+to create the text styles ,
+go near text, and click + 
+aand create and give it a name like 
+
+Header-rubik-26
+
+
+youcan also select a card and wish togo 
+go to master component
+and for the header we canchange the style to  
+header rubik 26
+
+then for the content ,apply karla 17 
+and add it as a text style 
