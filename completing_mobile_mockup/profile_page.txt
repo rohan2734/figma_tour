@@ -1,0 +1,18 @@
+change the font of edit to 20 and change the font
+weight to semibold 
+
+also generate a  profile ,with O of 100x100
+
+add first last , with T and change font size to 22 , and add email@gmail.com 
+change font size to 18 
+
+now to add profile photo search add plugin 
+
+plugins are in  the first menu option, and click on browse plugins
+
+now search avatar, and click on install
+
+now after installing , click on the profile circile , go to plugins and 
+select avatars
+
+now add the buttons for payment, support and login 
