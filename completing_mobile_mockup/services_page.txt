@@ -1,0 +1,20 @@
+we can create an extra page for services
+to know status of each services
+also share ourprojects to 
+helloclevr@gmail.com for feedback
+
+
+to create a component 
+go to componentpae
+copy the text design
+select the elements and do ctrl+alt+k 
+
+also create an arrow and bring that edge towards the point
+
+and bring it tothe edge
+
+rename the component to service list 
+
+go to mockups and now to add the component
+go to asssets and bring the component from assets to the mockup 
+

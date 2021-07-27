@@ -1,0 +1,18 @@
+browse plugins for google sheets sync
+
+now rename the texts like store name with 
+
+#store_name 
+date with #date
+ etc
+
+now to add the plugin in the frame 
+select the services frame 
+go to plugins, and click on google sheet sync 
+
+(download the sheets and link to it)
+
+and paste the link in that 
+
+the variable names are the column names
+you choose in the excel sheet
